@@ -1,7 +1,4 @@
 git config --global user.name "Dd-0106"
 git config --global user.email "dharshinidivya2422@gmail.com"
 
-edhachu pesu thangam what happend?
-eruma what are u looking at???? kiro needs input
-
-yena da yenadhujust 9 months
+ok successfully ignored podhum podhum

@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # AI Medical Coding System
 
 Automated ICD-10 code generation using RAG AI. Generates precise medical codes from unstructured medical reports with 90%+ accuracy.
@@ -126,3 +127,6 @@ GEMINI_API_KEY=your_api_key_here
 ## License
 
 MIT
+=======
+# ClinicalCodes
+>>>>>>> 16e3c44ca25fa60e42e0700d17486371da9ec210
