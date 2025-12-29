@@ -1,4 +1,0 @@
-git config --global user.name "Dd-0106"
-git config --global user.email "dharshinidivya2422@gmail.com"
-
-ok successfully ignored podhum podhum
