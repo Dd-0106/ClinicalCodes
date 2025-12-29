@@ -20,7 +20,21 @@ Automated ICD-10 code generation using RAG AI. Generates precise medical codes f
 
 ## Setup & Run
 
-### 1. Backend Setup
+### 1. Generate Data Files (First Time Only)
+
+The database and embeddings files are too large for GitHub. Generate them locally:
+
+```bash
+python scrape_real_codes.py
+```
+
+This will create:
+- `real_medical_codes.db` (74,044 ICD-10 codes)
+- `vector_db.pkl` (AI embeddings)
+
+**Note**: This takes ~5-10 minutes and requires internet connection.
+
+### 2. Backend Setup
 
 ```bash
 cd backend
