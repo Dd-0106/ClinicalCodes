@@ -141,6 +141,16 @@ GEMINI_API_KEY=your_api_key_here
 ## License
 
 MIT
+
+## Documentation
+
+For detailed project information, see [PROJECT_REPORT.md](PROJECT_REPORT.md) which includes:
+- Abstract and Introduction
+- Methodology and Architecture
+- Implementation Details
+- Results and Performance Metrics
+- Discussion and Future Work
+- ngrok Deployment (Completed)
 =======
 # ClinicalCodes
 >>>>>>> 16e3c44ca25fa60e42e0700d17486371da9ec210
